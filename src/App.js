@@ -1,8 +1,10 @@
+import RoutesApp from "./routes";
 
 function App() {
   return (
     <>
-      <p>teste tando </p>
+
+      <RoutesApp />
     </>
   );
 }
